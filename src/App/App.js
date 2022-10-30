@@ -313,7 +313,7 @@ class App extends Component {
             <div className="overlay1"></div>
             <div className="main-container">
               <div className="heading">
-                <h1>Iceland Glow</h1>
+                <h1>Merzouga</h1>
                 <h2>Sale</h2>
               </div>
               <div className="info">
@@ -350,44 +350,44 @@ class App extends Component {
                 <h3>Marrakech</h3>
               </div>
               <div className="image image-3">
-                <img src="./images/merzouga-10.jpg" alt="Hvítserkur" />
-                <h3>Hvítserkur</h3>
+                <img src="./images/merzouga-11.jpg" alt="Hvítserkur" />
+                <h3>Merzouga</h3>
               </div>
               <div className="image image-4">
-                <img src="./images/merzouga-10.jpg" alt="Flatey village" />
-                <h3>Flatey village</h3>
+                <img src="./images/fes.jpg" alt="Flatey village" />
+                <h3>Fès</h3>
               </div>
               <div className="image image-5">
                 <img
-                  src="./images/merzouga-11.jpg"
+                  src="./images/ouar-3.jpg"
                   alt="Parliament of Puffins"
                 />
-                <h3>Parliament of Puffins</h3>
+                <h3>Ouarzazate</h3>
               </div>
               <div className="image image-6">
-                <img src="./images/merzouga-12.jpg" />
-                <h3>Iceland Beach</h3>
+                <img src="./images/essaou.jpg" />
+                <h3>Essaouira</h3>
               </div>
               <div className="image image-7">
-                <img src="./images/merzouga-11.jpg" 
+                <img src="./images/agadir.jpg" 
                 alt="Reykjavík City" />
-                <h3>Reykjavík City</h3>
+                <h3>Agadir</h3>
               </div>
               <div className="image image-8">
                 <img
-                src="./images/merzouga-11.jpg"
-                  alt="Skogafoss Waterfall"
+                src="./images/rabat.jpg"
+                  alt="Rabat"
                 />
-                <h3>Skogafoss Waterfall</h3>
+                <h3>Rabat</h3>
               </div>
               <div className="image image-9">
                 <img
-                  src="./images/merzouga-11.jpg"
+                  src="./images/tanger-1.jpg"
                   alt="Iceland Caves"
                 />
-                <h3>Iceland Caves</h3>
+                <h3>Tanger</h3>
               </div>
-              <div className="image image-10">
+              {/* <div className="image image-10">
                 <img
                   src="./images/merzouga-11.jpg"
                   alt="Gigjökull"
@@ -407,7 +407,7 @@ class App extends Component {
                   alt="Solheimasandur Plane Wreck"
                 />
                 <h3>Solheimasandur Plane Wreck</h3>
-              </div>
+              </div> */}
             </div>
           </section>
 
@@ -524,8 +524,8 @@ class App extends Component {
             <div className="contact-info">
               <h1>Contacts</h1>
               <div className="contact-info-text">
-                <p>(480) 125 4568</p>
-                <p>iceland@help.com</p>
+                <p>+212624855867</p>
+                <p>mustapha.ouadidou@gmail.com</p>
               </div>
             </div>
           </div>
