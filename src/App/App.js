@@ -532,7 +532,7 @@ class App extends Component {
           <div className="credit">
             <h3>
               🖥️ Design and Developed By 🧑
-              <a href="https://github.com/SM8UTI"> OUADIDOU Mustapha</a>
+              <a href="https://github.com/labas455"> OUADIDOU Mustapha</a>
             </h3>
           </div>
         </footer>
