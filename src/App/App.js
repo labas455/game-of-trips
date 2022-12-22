@@ -138,9 +138,9 @@ class App extends Component {
                 atmosphere of the ice country.
               </p>
             </div>
-            <div className="main-container">
+            {/* <div className="main-container">
               <video src="./merzouga-mp4.mp4" autoPlay loop muted></video>
-            </div>
+            </div> */}
           </section>
 
           <section className="tour" id="tour">
