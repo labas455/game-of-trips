@@ -459,11 +459,10 @@ class App extends Component {
           </div>
           <div className="main-container">
             <div className="heading-foo">
-              <img src="./images/logo/iceland.svg" alt="" />
-              <h1>Iceland</h1>
+              <img src="./images/morocco.svg" alt="" />
+              <h1>Morocco</h1>
               <p>
-                EVERYTHING IS EXPENSIVE IN ICELAND, ESPECIALLY FOOD, AND
-                ESPECIALLY HEALTHY FOOD
+                
               </p>
             </div>
             <div className="social-media">
